@@ -21,6 +21,8 @@
 />
 <source
 </picture>
+##
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-albuquerque&layout=compact)](https://github.com/guilherme-albuquerque/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
