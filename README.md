@@ -12,3 +12,8 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Guilherme Albuquerque's github stats" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues&show_icons=true&hide_border=true" />
+  </a>
+</p>
