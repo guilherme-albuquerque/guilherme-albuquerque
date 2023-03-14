@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gui.arodrigues@hotmail.com)
 
 &nbsp;
-
+##
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Guilherme Albuquerque's github stats" src="https://github-readme-stats.vercel.app/api?username=guilherme-rodrigues&show_icons=true&hide_border=true" />
