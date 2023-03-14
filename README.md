@@ -60,7 +60,7 @@
 
 ### 🔗 Version control
 <div style="display: inline_block"><br>
-  <img align="center" alt="guilherme-GitHub" title="GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="guilherme-GitHub" title="GitHub" height="40" width="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   <img align="center" alt="guilherme-Bitbucket" title="Bitbucket" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg">
 </div>
   
