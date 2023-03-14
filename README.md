@@ -31,6 +31,7 @@
   <img align="center" alt="guilherme-Java" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="guilherme-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="guilherme-Ruby" title="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" alt="guilherme-JS" title="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ### 🧰 Frameworks and libraries
@@ -51,9 +52,17 @@
 
 ### 💻 Software and tools
 
-<p>
-  
-  
+<div style="display: inline_block"><br>
+  <img align="center" alt="guilherme-Postman" title="Postman" height="40" width="50" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4">
+  <img align="center" alt="guilherme-DBeaver" title="DBeaver" height="40" width="50" src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png">
+  <img align="center" alt="guilherme-VsCode" title="VsCode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+</div>
+
+### 🔗 Version control
+<div style="display: inline_block"><br>
+  <img align="center" alt="guilherme-GitHub" title="GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="guilherme-Bitbucket" title="Bitbucket" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg">
+</div>
   
   
   
