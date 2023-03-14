@@ -17,11 +17,13 @@
 ## Talking about Personal Stuffs:
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m Quality Assurance;
-- 🌱 I’m currently learning Grafana, Azure e Jmeter; 
+- 🌱 I’m currently learning Grafana, Azure e Jmeter;
+- 🤔 I'm looking for help with Jmeter😭;
 - 💬 Ask me about anything, I'll be happy to help;
+- 👯 I'm looking to collaborate on automation in robotframework
 - ⚡️ Curiosity: I graduated in computer engineering;
 
 
