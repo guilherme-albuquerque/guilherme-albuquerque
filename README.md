@@ -8,5 +8,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-albuquerque-b9191b16b/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](gui.arodrigues@hotmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gui.arodrigues@hotmail.com)
+
+&nbsp;
 
