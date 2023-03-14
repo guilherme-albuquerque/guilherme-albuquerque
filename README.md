@@ -3,14 +3,16 @@
 </p>
 
 ##
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-albuquerque-b9191b16b/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gui.arodrigues@hotmail.com)
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-albuquerque-b9191b16b/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:gui.arodrigues@hotmail.com"><img width="32px" title="Outlook" src="https://imgur.com/6kMGjr2.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<br/>
 &nbsp;
+
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
